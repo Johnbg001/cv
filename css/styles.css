@@ -1,0 +1,32 @@
+body {background-image: url('images/abstract.jpg');}
+    hr { border-style: none;
+        border-top-style:double;
+        border-top-width: 20px;
+        border-color: black;
+        border-width: 4px;
+        box-shadow: 10px;
+        width:100%
+        ;}
+      
+  h1 { font-size: 45px;
+    font-family:  cursive; 
+    font weight:  bold;
+                        }  
+  h3{font-size: 25px;}
+
+  form{ 
+  }
+
+  table{
+    text-shadow: #FFC700;
+    flex: 2cm;
+  }
+  h3{
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+  }
+  ul{
+    list-style-type:circle; 
+
+  }
